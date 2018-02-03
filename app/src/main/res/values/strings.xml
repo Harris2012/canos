@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Canos</string>
+    <string name="action_settings">设置</string>
+
+    <string name="btn_text_open_album">相册</string>
+    <string name="btn_text_open_camera">相机</string>
+    <string name="btn_text_crop_image">裁切</string>
+    <string name="btn_text_test">测试</string>
+
+    <string name="btn_text_confirm">确认</string>
+    <string name="btn_text_confirm_number">确认(%d)</string>
+    <string name="btn_text_preview">预览</string>
+
+    <string name="btn_text_scan_album">扫描</string>
+    <string name="btn_text_filter_image">过滤</string>
+    <string name="btn_text_preview_image">预览</string>
+    <string name="btn_text_jni">JNI</string>
+    <string name="btn_text_view_pager">ViewPager</string>
+    <string name="btn_text_view_pager2">ViewPager2</string>
+
+    <string name="preview_text_cn">zang张三deuio</string>
+    <string name="preview_text_en">This is a test.</string>
+
+    <string name="preview_set_text">设置文字</string>
+
+    <string name="preview_select_fontfamily">选择字体</string>
+    <string name="preview_select_fontsize">选择字号</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text_cancel">取消</string>
+    <string name="text_back">返回</string>
+    <string name="text_save">保存</string>
+
+    <string name="title_pick_image">选择图片</string>
+    <string name="title_scene">设计场景</string>
+</resources>
